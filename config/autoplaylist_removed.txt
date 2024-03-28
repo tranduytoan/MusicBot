@@ -1,0 +1,12 @@
+# Entry removed Sat Apr  8 06:02:06 2023
+# Reason: [0;31mERROR:[0m [youtube] rz-_mstXfr0: Private video. Sign in if you've been granted access to this video
+https://youtube.com/watch?v=rz-_mstXfr0
+
+################################
+
+# Entry removed Sat Apr  8 06:02:07 2023
+# Reason: [0;31mERROR:[0m [youtube] BQYXn1DP38s: Private video. Sign in if you've been granted access to this video
+https://youtube.com/watch?v=BQYXn1DP38s
+
+################################
+
