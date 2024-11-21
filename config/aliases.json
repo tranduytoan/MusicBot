@@ -1,5 +1,9 @@
 {
     "play": ["p"],
     "skip": ["s"],
-    "queue": ["q"]
+    "queue": ["q"],
+    "latency": ["ping"],
+    "summon": ["join", "connect", "come"],
+    "disconnect": ["leave", "stop"],
+    "autoplaylist": ["apl"]
 }

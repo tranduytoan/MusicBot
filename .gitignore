@@ -1,0 +1,16 @@
+.idea/
+*.pyc
+~*/
+.vscode/
+/venv/
+
+audio_cache/
+dectalk/
+
+discord.log
+logs/
+data/
+media/
+
+docker-compose.yml
+config/autoplaylist.cachemap.json
